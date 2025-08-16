@@ -10,6 +10,6 @@ public class HelloWorldController {
 	//Handler method
 	@GetMapping("/message")
 	public String getMessage() {
-		return "hello-world sonal";
+		return "hello-world sonal sonal";
 	}
 }
